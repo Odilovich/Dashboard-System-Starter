@@ -1,4 +1,22 @@
-## Tailwind Starter
+## ADMIN DASHBOARD
+
+- SIGNUP / SIGNIN (Authorization)
+- DASHBOARD
+- NAVIGATION
+- INSTALLITATION CHART
+- ACCARDION MENU 
+- TAB MENU
+
+
+### API DOCS
+
+##### BASE URL : <code> https://fakestoreapi.com <code>
+
+#### AND POINTS
+
+- FOR AUTH : <code> /auth/login <code>
+
+----------------------------------
 
 1. ``` npm init ```
 

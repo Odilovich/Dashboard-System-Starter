@@ -1,0 +1,13 @@
+.container-fluid {
+    padding: 0 20px !important;
+}
+
+.show-dropdown {
+    display: flex !important;
+}
+
+.hide-aside{
+    /* transform: translateX(-100%); */
+    display: none;
+    transition: all 0.2s ease-in-out;
+}
